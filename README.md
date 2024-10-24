@@ -1,1 +1,1 @@
-# sql-plugin-log
+# idea-plugin
